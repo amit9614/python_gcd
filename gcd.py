@@ -1,6 +1,4 @@
-
-# Python code to demonstrate naive 
-# method to compute gcd ( Euclidean algo ) 
+# method to compute gcd ( Euclidean algorithm) 
   
   
 def computeGCD(x, y): 
