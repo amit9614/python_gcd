@@ -1,2 +1,2 @@
 # python_gcd
-Greatest Common Factor of two number using python
+Greatest common divisor of two number using python
